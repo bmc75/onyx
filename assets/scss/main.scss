@@ -1,0 +1,19 @@
+/**
+ * Scss structure
+ *
+ * /vendor - 3rd party SCSS/CSS snippets
+ * /global - Effects every page
+ * /layout - Reusable layout components
+ * /pages - Specific page styles
+ */
+
+/**
+ * Classic CSS reset.
+ */
+@import "vendor/reset.scss";
+
+/**
+ * WordPress CSS
+ */
+@import "vendor/wordpress.scss";
+
