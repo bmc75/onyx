@@ -5,7 +5,7 @@
  * @since 1.0
  *
  * @package WordPress
- * @subpackage Slate
+ * @subpackage Onyx
  */
 ?>
 <!doctype html>
