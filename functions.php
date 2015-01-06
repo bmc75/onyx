@@ -12,6 +12,11 @@
  */
 
 /**
+ * Configure wp_head.
+ */
+$onyx_head = new Onyx_Head;
+
+/**
  * Load Theme Assets
  */
 $onyx_assets = new Onyx_Assets;
